@@ -1,7 +1,9 @@
 # TOP SALARIED JOB TITLES
 
 **Author** = Nishika Gupta
+---
 **Date** = 14 June 2025
+---
 **Tools Used** = Excel & Power BI
 ---
 # Problem Statement
