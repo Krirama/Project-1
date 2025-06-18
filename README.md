@@ -37,16 +37,17 @@ Analyzing and Finding Top salaried Job Tiles to help people with career location
   
   
 2. **Average Salary Based on Locations**
-   -Australia   -    114925
-   -Canada      -    116455
-   -China       -    116283
-   -UK          -    115920
-   -USA         -    112999
+   1. Australia   -    114925
+   2. Canada      -    116455
+   3. China       -    116283
+   4. UK          -    115920
+   5. USA         -    112999
+  
 
-3. **Numbers of Seniors**
+4. **Numbers of Seniors**
    On adding the number of seniors **China reports the majority reports the highest seniority that comes out to be 206**.
 
-4. **Numbers of Job Titles**
+5. **Numbers of Job Titles**
    USA reports to have most number of job titles
 
 # Dashboard
