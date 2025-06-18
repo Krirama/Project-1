@@ -1,11 +1,9 @@
 # TOP SALARIED JOB TITLES
 
 **Author** = Nishika Gupta
----
 **Date** = 14 June 2025
----
 **Tools Used** = Excel & Power BI
----
+
 # Problem Statement
 Analyzing and Finding Top salaried Job Tiles to help people with career location options.
 ---
@@ -15,12 +13,13 @@ Analyzing and Finding Top salaried Job Tiles to help people with career location
 ---
 # Key Insights
 
-1. **Top Job Titles with Highest Salaries according to the data:-**
+1. **Top Job Titles with Highest Salaries according to the data:**
    - CEO
    - CDO
    - CTO
-   - Director (Not specified director of whom)
+   - Director (Not specified in dataset)
    - Director of Science
+  
   
 2. **Average Salary Based on Locations**
    -Australia   -    114925
