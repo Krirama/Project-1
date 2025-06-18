@@ -3,6 +3,10 @@
 - **Date**: 14 June 2025  
 - **Tools Used**: Excel, Power BI
 
+## 📌 Project Summary
+
+Analyzed global salary data using Excel & Power BI. Built interactive dashboards to visualize salary trends by location, job title, seniority, and experience. Full project and dashboard available in this repository.
+
 
 # Problem Statement
 Analyzing and Finding Top salaried Job Tiles to help people with career location options.
