@@ -53,11 +53,9 @@ Analyzing and Finding Top salaried Job Tiles to help people with career location
 
 5. **Numbers of Job Titles**
    USA reports to have most number of job titles
-
-# Dashboard
-Project 1.pbix:  Salary Dashboard
 ---
 # NOTE
+Refer to the following link for the links of all the CSVs and Dashboard.
 For any queries or suggestions, feel free to raise an issue with this repository. Thank You!
 
 
