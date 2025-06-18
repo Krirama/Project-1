@@ -7,9 +7,24 @@
 # Problem Statement
 Analyzing and Finding Top salaried Job Tiles to help people with career location options.
 ---
--- **File name** = Top Salary.csv
--- **Rows** = 6685 (Header included)
--- **Features** = Sr. Number	Gender	Education_Level_Simplified	Job Title	Age_simplified	Age	Years_of_Experience_CLEARED	Years_of_Experience	Salary_cleared	Salary	Country	Race	Seniority	Education_Level
+- **File name** = Top Salary.csv
+-  **Rows** = 6685 (Header included)
+-  **Features:**
+    1. Sr.
+    2. Number
+    3. Gender
+    4. Education_Level_Simplified
+    5. Job Title
+    6. Age_simplified	Age
+    7. Years_of_Experience_CLEARED
+    8. Years_of_Experience
+    9. Salary_cleared
+    10. Salary
+    11. Country
+    12. Race
+    13. Seniority
+    14. Education_Level
+
 ---
 # Key Insights
 
