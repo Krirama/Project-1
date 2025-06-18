@@ -1,8 +1,8 @@
 # TOP SALARIED JOB TITLES
+- **Author**: Nishika Gupta  
+- **Date**: 14 June 2025  
+- **Tools Used**: Excel, Power BI
 
-**Author** = Nishika Gupta
-**Date** = 14 June 2025
-**Tools Used** = Excel & Power BI
 
 # Problem Statement
 Analyzing and Finding Top salaried Job Tiles to help people with career location options.
