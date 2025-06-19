@@ -13,7 +13,7 @@ Analyzing and Finding Top salaried Job Tiles to help people with career location
 ---
 - **File name** = Top Salary.csv
 -  **Rows** = 6685 (Header included)
--  **Features:**
+-  **Columns:**
     1. Sr. Number
     2. Gender
     3. Education_Level_Simplified
@@ -53,6 +53,15 @@ Analyzing and Finding Top salaried Job Tiles to help people with career location
 
 5. **Numbers of Job Titles**
    USA reports to have most number of job titles
+
+   ## 🔍 Conclusion
+
+- **China has the highest number of senior-level professionals**, indicating a strong presence of experienced individuals suitable for leadership roles in global projects.
+
+- **Canada offers the highest average salary** among the analyzed countries, suggesting that companies in other regions may need to offer competitive compensation to attract top talent.
+
+- **The United States has the most diverse range of job titles**, making it an ideal market for sourcing a wide variety of technical and managerial roles.
+
 ---
 # NOTE
 Refer to the following link for the links of all the CSVs and Dashboard.
