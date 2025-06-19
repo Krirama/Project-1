@@ -6,6 +6,7 @@
 ## 📌 Project Summary
 
 Analyzed global salary data using Excel & Power BI. Built interactive dashboards to visualize salary trends by location, job title, seniority, and experience. Full project and dashboard available in this repository.
+Data was already clean enough hence, merged 2 files, removed some similar columns and standardized some important columns. 
 
 
 # Problem Statement
